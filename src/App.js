@@ -67,7 +67,7 @@ const TwoColumnLayout = styled.div`
 const Container = styled.div`
   margin: auto;
   width: 800;
-  paddingtop: 1rem;
+  paddingtop: 2rem;
 `;
 
 const Input = styled.input`
